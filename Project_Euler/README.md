@@ -11,7 +11,7 @@ Project Euler são uma serie de desafios, que são necessários conhecimentos ma
 JavaScript
 
 ## Exercicios Resolvidos:
-1 - [Multiples of 3 or 5](/problem1.js)
+1 - [Multiples of 3 or 5](problem1.js)
 2 - [Even Fibonacci numbers](/problem2.js)
 3 - [Largest prime factor](/problem3.js)
 4 - [Largest palindrome product](/problem4.js)
