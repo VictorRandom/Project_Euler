@@ -5,7 +5,7 @@
 # Resolução dos exercícios Project Euler
 
 ## Project Euler
-Project Euler são uma serie de desafios, que são necessários conhecimentos matematicos e de progração para a solução. [Project Euler](https://projecteuler.net/archives)
+Project Euler são uma serie de desafios, que são necessários conhecimentos matematicos e de programação para a solução. [Project Euler](https://projecteuler.net/archives)
 
 ## Linguagem escolhida
 JavaScript
