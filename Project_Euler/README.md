@@ -25,6 +25,4 @@ JavaScript
 
 7 - [10001st prime](problem7.js)
 
-8 - [Largest product in a series](problem8.js)
-
-9 - [Special Pythagorean triplet](problem9.js)
+10 - [Summation of primes](problem10.js)
